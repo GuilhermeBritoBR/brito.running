@@ -1,0 +1,31 @@
+.sobre{
+    color: #625A5A;
+}
+.conteudo{
+    font-size: 16px;
+}
+.container-informacoes{
+    margin:40px ;
+
+}
+.div-informacoes{
+    border-top: solid 1px #000;
+    margin-top: 20px;
+}
+.icon-rede{
+    display: inline-block;
+    height: 3vh;
+    width: 3vh;
+}
+.div-insta, .div-face{
+    display:inline-block;
+    margin:20px;
+}
+.div-redes{
+    margin-top:30px;
+    border-top: solid 1px #000;
+}
+.div-recordes{
+    font-size: 3vh;
+    color: #000;
+}

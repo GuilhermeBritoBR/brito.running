@@ -1,0 +1,10 @@
+footer{
+    background-color: #f8f8f8;
+    margin: 0px;
+    border-top: solid 2px #000;
+    text-align: center;
+}
+.acess{
+    display: inline-block;
+    margin: 40px;
+}

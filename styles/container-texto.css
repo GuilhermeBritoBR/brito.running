@@ -1,0 +1,8 @@
+.container-texto{
+    position: relative;
+    margin:40px;
+}
+.div-texto{
+    word-wrap: break-word;
+  text-overflow: ellipsis;
+}
