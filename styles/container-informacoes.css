@@ -1,3 +1,5 @@
+.titulo-brito{
+}
 .sobre{
     color: #625A5A;
 }
@@ -14,12 +16,17 @@
 }
 .icon-rede{
     display: inline-block;
-    height: 3vh;
-    width: 3vh;
+    height: 5vh;
+    width: 5vh;
+}
+.icon-rede:hover{
+   box-shadow: 0.0em 0.0em 0.4em #000;
+   border-radius: 4px;
 }
 .div-insta, .div-face{
     display:inline-block;
     margin:20px;
+    cursor: pointer;
 }
 .div-redes{
     margin-top:30px;

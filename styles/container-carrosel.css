@@ -33,7 +33,7 @@
     padding: 30px;
     border-radius: 10px;
     cursor: pointer;
-    transition: 1s;
+    transition: 0.2s;
 }
 .manual-btn:not(:last-child){
     margin-right: 40px;

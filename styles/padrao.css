@@ -4,11 +4,12 @@ html{
     width: 100%;
     height: 100%;
     display: flex;
-    font-family: 'Ubuntu';
+    font-family: "Ubuntu";
+    letter-spacing: 1px;
     }
     @font-face {
         font-family: 'Ubuntu';
-        src: url('../assets/Ubuntu-Regular.ttf') format('truetype');   
+        src: url('../assets/Ubuntu-Light.ttf') format('truetype');   
     
 }
 h1{

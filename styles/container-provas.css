@@ -1,11 +1,12 @@
 .container-provas{
     margin: 40px;
-    border-top: solid 1px #000;
+    margin-top: 60px;
+    
 }
 .titulo-prova{
     margin-top: 10px;
     border-top: solid 1px #000;
-
+    color:#625A5A;
 }
 .div-metros{
     text-align: center;
