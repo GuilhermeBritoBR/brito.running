@@ -8,4 +8,18 @@ header{
     background-size: cover;
     height: 50%;
     width: 100%;
+    filter: grayscale(50%)
+}
+header:hover{
+    position: relative;
+    margin: 0px;
+    border: 0px;
+    background-image: url('../assets/cover.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+    width: 100%;
+    filter: grayscale(0%)
+   
 }

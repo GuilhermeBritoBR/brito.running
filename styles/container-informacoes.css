@@ -91,10 +91,19 @@
     height: 5vh;
     width: 5vh;
 }
-
+.icon-rede-big{
+    display: inline-block;
+    height: 10vh;
+    width: 10vh;
+}
+.icon-rede-big:hover{
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: #9b9b9b;
+ }
 .icon-rede:hover{
-   box-shadow: 0.0em 0.0em 0.4em #000;
    border-radius: 4px;
+   cursor: pointer;
 }
 .div-insta, .div-face{
     display:inline-block;
