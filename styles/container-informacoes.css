@@ -12,7 +12,7 @@
     margin:40px ;
    
 }
-@media screen and (min-device-width:680px) {
+@media screen and (min-device-width:760px) {
    .div-informacoes{
     display: inline-block;
     min-width: 50%;
