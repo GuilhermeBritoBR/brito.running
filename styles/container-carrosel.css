@@ -60,3 +60,6 @@
 #radio4:checked ~ .first{
     margin-left: -300%;
 }
+#radio5:checked ~ .first{
+    margin-left: -400%;
+}
