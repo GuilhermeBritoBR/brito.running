@@ -25,3 +25,11 @@ body{
     height: 100%;
    
 }
+.none_record{
+    text-decoration: none;
+    color:#000;
+}
+.none_record:hover{
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+}
