@@ -2,11 +2,11 @@ header{
     position: relative;
     margin: 0px;
     border: 0px;
-    background-image: url('../assets/cover_americana.jpg');
+    background-image: url('../assets/nova_odessa_running_2023_2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 65%;
+    height: 80%;
     width: 100%;
     filter: grayscale(0%);
 }
